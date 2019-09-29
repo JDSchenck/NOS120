@@ -1,8 +1,8 @@
 #!/bin/bash
-#Assignment 3 for NOS-120
+#Assignment 4 for NOS-120
 
-mkdir ~/Assignment_3
-cd Assignment_3
+mkdir ~/Assignment_4
+cd Assignment_4
 mkdir Task1
 mkdir Task2
 mkdir Task3
